@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mold Tracking System</string>
+    <string-array name="protocol_options">
+        <item>http</item>
+        <item>https</item>
+    </string-array>
+</resources>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_primary">#2D3A5D</color>
+    <color name="color_on_primary">#FFFFFF</color>
+    <color name="color_primary_dark">#1F2A40</color>
+    <color name="color_primary_light">#4B5A82</color>
+    <color name="color_secondary">#00C9A7</color>
+    <color name="color_on_secondary">#1F2A40</color>
+    <color name="color_secondary_dark">#00A387</color>
+    <color name="color_secondary_light">#59E0CE</color>
+
+    <color name="color_accent_1">#7E57C2</color>
+    <color name="color_on_accent_1">#FFFFFF</color>
+    <color name="color_accent_1_light">#9575CD</color>
+
+    <color name="color_accent_2">#FF9800</color>
+    <color name="color_on_accent_2">#1F2A40</color>
+    <color name="color_accent_2_light">#FFB74D</color>
+
+    <color name="background_primary">#F8F9FA</color>
+    <color name="background_secondary">#F1F3F4</color>
+    <color name="background_tertiary">#E9ECEF</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_secondary">#FAFAFA</color>
+
+    <color name="text_primary">#212529</color>
+    <color name="text_secondary">#495057</color>
+    <color name="text_tertiary">#ADB5BD</color>
+    <color name="text_hint">#CED4DA</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_90">#E6000000</color>
+    <color name="black_80">#CC000000</color>
+    <color name="black_70">#B3000000</color>
+
+    <color name="gray_50">#F8F9FA</color>
+    <color name="gray_100">#F1F3F4</color>
+    <color name="gray_200">#E9ECEF</color>
+    <color name="gray_300">#DEE2E6</color>
+    <color name="gray_400">#CED4DA</color>
+    <color name="gray_500">#ADB5BD</color>
+    <color name="gray_600">#868E96</color>
+    <color name="gray_700">#495057</color>
+    <color name="gray_800">#343A40</color>
+    <color name="gray_900">#212529</color>
+
+    <color name="holo_green">#ff669900</color>
+    <color name="holo_red">#ffcc0000</color>
+
+    <color name="success">#28A745</color>
+    <color name="success_light">#D4EDDA</color>
+    <color name="warning">#FFC107</color>
+    <color name="warning_light">#FFF3CD</color>
+    <color name="error">#DC3545</color>
+    <color name="error_light">#F8D7DA</color>
+    <color name="info">#17A2B8</color>
+    <color name="info_light">#D1ECF1</color>
+
+    <color name="gradient_start">#667EEA</color>
+    <color name="gradient_middle">#764BA2</color>
+    <color name="gradient_end">#5D3FD3</color>
+
+    <color name="button_primary">#2D3A5D</color>
+    <color name="button_primary_pressed">#1F2A40</color>
+    <color name="button_secondary">#00C9A7</color>
+    <color name="button_secondary_pressed">#00A387</color>
+    <color name="button_disabled">#DEE2E6</color>
+
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F8F9FA</color>
+    <color name="on_surface">#212529</color>
+    <color name="on_surface_variant">#495057</color>
+
+    <color name="border_primary">#E9ECEF</color>
+    <color name="border_secondary">#CED4DA</color>
+    <color name="border_focus">#2D3A5D</color>
+
+    <color name="overlay_dark">#80000000</color>
+    <color name="overlay_light">#80FFFFFF</color>
+
+    <color name="shimmer_light">#E9ECEF</color>
+    <color name="shimmer_dark">#DEE2E6</color>
+    <color name="shadow">#1A000000</color>
+
+    <color name="nav_selected">#2D3A5D</color>
+    <color name="nav_unselected">#ADB5BD</color>
+    <color name="nav_background">#FFFFFF</color>
+
+    <color name="input_background">#F8F9FA</color>
+    <color name="input_border">#E9ECEF</color>
+    <color name="input_border_focused">#2D3A5D</color>
+    <color name="input_text">#212529</color>
+    <color name="input_hint">#ADB5BD</color>
+
+</resources>
